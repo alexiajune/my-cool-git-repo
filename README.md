@@ -3,6 +3,6 @@ This is so cool! I'm learning GitHub!
 
 This is my first edit!
 
-This is my second edit!
+This is my 2nd edit!
 
-This is my third edit!
+This is my 3rd edit!
